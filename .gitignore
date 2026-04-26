@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+
+.ipynb_checkpoints/
+
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+rps_dataset/
+
+.DS_Store
+Thumbs.db
