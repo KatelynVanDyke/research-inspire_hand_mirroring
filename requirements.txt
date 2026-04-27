@@ -48,6 +48,8 @@ requests==2.33.1
 six==1.17.0
 sympy==1.14.0
 torch==2.11.0
+yt-dlp
+nbformat
 torchvision==0.26.0
 tqdm==4.67.3
 triton==3.6.0

@@ -14,3 +14,8 @@ rps_dataset/
 
 .DS_Store
 Thumbs.db
+
+# Dynamic hand mappings — generated artifacts
+dynamic_hand_mappings/videos/
+dynamic_hand_mappings/*.npy
+dynamic_hand_mappings/*.mp4
