@@ -1,0 +1,11 @@
+pose_name,description,little,ring,middle,index,thumb_bend,thumb_rotation
+open_hand,Fingers spread and straight,1000,1000,1000,1000,1000,1000
+fist,Closed fist,0,0,0,0,220,350
+point_index,Index finger extended,0,0,0,1000,220,350
+peace_sign,Index and middle extended,0,0,1000,1000,220,350
+three_fingers,Index middle and ring extended,0,1000,1000,1000,220,350
+four_fingers,All except thumb extended,1000,1000,1000,1000,220,350
+thumbs_up,Thumb up with fingers curled,0,0,0,0,1000,1000
+okay_sign,Index-thumb circle with others open,1000,1000,1000,220,220,450
+hook_hand,All fingers bent at PIP with open MCP,350,350,350,350,500,850
+flat_relaxed,Relaxed open palm,850,850,850,850,850,850

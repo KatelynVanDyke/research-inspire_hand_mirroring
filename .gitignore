@@ -10,12 +10,18 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 
-rps_dataset/
-
 .DS_Store
 Thumbs.db
 
-# Dynamic hand mappings — generated artifacts
-dynamic_hand_mappings/videos/
+# Static hand mappings
+static_hand_mappings/rps_dataset/
+static_hand_mappings/*.task
+static_hand_mappings/*.mp4
+
+# Dynamic hand mappings
 dynamic_hand_mappings/*.npy
 dynamic_hand_mappings/*.mp4
+
+# ML hand mappings
+ml_hand_mappings/*.npz
+ml_hand_mappings/*.mp4

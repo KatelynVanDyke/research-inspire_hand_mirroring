@@ -1,0 +1,5 @@
+video_path,frames_predicted,output_npy,output_csv,mean_little,mean_ring,mean_middle,mean_index,mean_thumb_bend,mean_thumb_rotation
+test_videos/0_test.mp4,257,inference_outputs/0_test_dof_sequence.npy,inference_outputs/0_test_dof_sequence.csv,274.0935363769531,403.1273498535156,409.892333984375,605.6602783203125,754.6265869140625,966.48583984375
+test_videos/1_test.mp4,224,inference_outputs/1_test_dof_sequence.npy,inference_outputs/1_test_dof_sequence.csv,118.3475570678711,405.7439880371094,398.0405578613281,666.6427612304688,319.79888916015625,900.2960815429688
+test_videos/2_test.mp4,174,inference_outputs/2_test_dof_sequence.npy,inference_outputs/2_test_dof_sequence.csv,549.2582397460938,560.3231811523438,556.3934936523438,411.1059265136719,419.2310485839844,791.9430541992188
+test_videos/3_test.mp4,169,inference_outputs/3_test_dof_sequence.npy,inference_outputs/3_test_dof_sequence.csv,521.3927001953125,755.2051391601562,760.2960815429688,649.048828125,175.06460571289062,796.8963623046875
